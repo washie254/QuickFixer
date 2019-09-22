@@ -1,0 +1,39 @@
+/////////////////////////////////////////////
+::::::
+    user Registration:
+        telNo.   ...> [.. approve ]
+        username. 
+        Fname, lname, surname.
+        ID Number.
+        email. [N/A]
+
+    user login:
+        phone/ email / username.
+        password.
+
+    UserProfile:
+        profile avatar.
+        bio info. 
+        occupation category. 
+        occupation,
+        location. { Dynamic }
+        skills [tags < 10 ]
+    
+
+    gigs: 
+        title,
+        domain / area.
+        pricing, | price-range.
+        description, 
+        Tel. No.
+        Ratings: |
+        Reviews:
+
+/////////////////////////////////
+    
+
+
+
+
+    
+        
