@@ -30,9 +30,23 @@
         Reviews:
 
 /////////////////////////////////
-    
+    Buyer of service :
+        user Registration:
+        telNo.   ...> [.. approve ]
+        username. 
+        Fname, lname, surname.
+        ID Number.
+        email. [N/A]
 
 
+////////////////////////////////////////////
+    ADMIN:
+        DASHBOARD:
+            # View Registered users / Accounts
+            # Visitors traffic
+            # Deactivating Accounts
+            # Viewing General Reports. 
+            # 
 
 
     
